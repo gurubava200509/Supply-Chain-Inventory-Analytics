@@ -131,17 +131,15 @@ GROUP BY Market;
 ## Repository Structure
 
 ```text
-Supply-Chain-Inventory-Analytics/
+Supply-Chain-Performance-Analytics/
 │
 ├── README.md
 ├── supply_chain_dashboard.pbix
+├── supply_chain_analysis.sql
 ├── supply_chain_dashboard_1.png
 ├── supply_chain_dashboard_2.png
-├── supply_chain_analysis.sql
 └── supply_chain_eda.ipynb
 ```
-
----
 
 ## Project Files
 
